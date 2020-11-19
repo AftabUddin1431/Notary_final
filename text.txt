@@ -1,0 +1,4 @@
+ash: #535D69
+white: #FFFFFF
+red: #BD233F
+button; BC223E
